@@ -1,2 +1,6 @@
 #new file test
-print("hi whats up")
+
+import pandas as pd
+import numpy as np
+
+print('Hello Capstine Project Course!')
